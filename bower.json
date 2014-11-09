@@ -3,6 +3,19 @@
     "description": "Bootstrap RTL 3.3",
     "version": "3.3.0-rc1",
     "homepage": "https://github.com/mojtabakaviani/bootstrap-rtl",
+    "description": "The most popular front-end framework for developing responsive, mobile first projects on the web.",
+    "keywords": [
+        "css",
+        "js",
+        "less",
+        "mobile-first",
+        "responsive",
+        "front-end",
+        "framework",
+        "web",
+        "rtl"
+    ],
+
     "authors": [
         "Mojtaba Kaviani"
     ],
