@@ -1,0 +1,25 @@
+{
+  "name": "bootstraprtl",
+  "description": "Bootstrap RTL 3.3",
+  "version": "3.3.0-rc2",
+  "homepage": "https://raw.githubusercontent.com/morteza/bootstrap-rtl",
+  "authors": [
+    "Mojtaba Kaviani"
+  ],
+  "main": [
+    "dist/css/bootstrap-rtl.css"
+  ],
+  "ignore": [
+    "**/.*",
+    "_config.yml",
+    "CNAME",
+    "composer.json",
+    "CONTRIBUTING.md",
+    "docs",
+    "js/tests"
+  ],
+  "license": "MIT",
+  "dependencies": {
+    "jquery": ">= 1.9.0"
+  }
+}
