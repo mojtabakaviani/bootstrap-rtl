@@ -1,28 +1,33 @@
 {
-  "name": "bootstraprtl",
-  "description": "Bootstrap RTL 3.3",
-  "version": "3.3.0-rc1",
-  "homepage": "https://raw.githubusercontent.com/morteza/bootstrap-rtl",
-  "authors": [
-    "Mojtaba Kaviani"
-  ],
-  "main": [
-    "dist/css/bootstrap-rtl.min.css",
-    "dist/css/bootstrap-theme-rtl.css",
-    "dist/js/bootstrap-rtl.min.js",
-    "dist/js/bootstrap-rtl.min.js.map",
-  ],
-  "ignore": [
-    "**/.*",
-    "_config.yml",
-    "CNAME",
-    "composer.json",
-    "CONTRIBUTING.md",
-    "docs",
-    "js/tests"
-  ],
-  "license": "MIT",
-  "dependencies": {
-    "jquery": ">= 1.9.0"
-  }
+    "name": "bootstraprtl",
+    "description": "Bootstrap RTL 3.3",
+    "version": "3.3.0-rc1",
+    "homepage": "https://github.com/mojtabakaviani/bootstrap-rtl",
+    "authors": [
+        "Mojtaba Kaviani"
+    ],
+    "main": [
+        "dist/css/bootstrap-rtl.min.css",
+        "dist/css/bootstrap-theme-rtl.css",
+        "dist/js/bootstrap-rtl.min.js",
+        "dist/js/bootstrap-rtl.min.js.map",
+        "dist/fonts/glyphicons-halflings-regular.eot",
+        "dist/fonts/glyphicons-halflings-regular.svg",
+        "dist/fonts/glyphicons-halflings-regular.ttf",
+        "dist/fonts/glyphicons-halflings-regular.woff"
+
+    ],
+    "ignore": [
+        "**/.*",
+        "_config.yml",
+        "CNAME",
+        "composer.json",
+        "CONTRIBUTING.md",
+        "docs",
+        "js/tests"
+    ],
+    "license": "MIT",
+    "dependencies": {
+        "jquery": ">= 1.9.0"
+    }
 }
