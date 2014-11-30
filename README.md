@@ -7,7 +7,7 @@ Current Version: 3.3.1-rc3
 
 Please report bugs that solve on the next version
 
-Nuget Package [bootstrap-rtl](https://www.nuget.org/packages/bootstrap-rtl/3.3.1-rc2)
+Nuget Package [bootstrap-rtl](https://www.nuget.org/packages/bootstrap-rtl/)
 
 PM> Install-Package bootstrap-rtl -Pre 
 
