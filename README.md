@@ -13,7 +13,7 @@ PM> Install-Package bootstrap-rtl -Pre
 
 Bower Package
 
-bower install bootstrap.rtl
+$ bower install bootstrap.rtl
 
 **And Next...**
 
