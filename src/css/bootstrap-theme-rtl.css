@@ -1,6 +1,6 @@
 ﻿/*!
- * Bootstrap v3.3.1 (http://getbootstrap.com)
- * Copyright 2011-2014 Twitter, Inc.
+ * Bootstrap RTL v3.3.2 (https://github.com/mojtabakaviani/bootstrap-rtl)
+ * Copyright 2011-2015 Twitter, Inc.
  * Licensed under MIT (https://github.com/twbs/bootstrap/blob/master/LICENSE)
  */
 
@@ -70,6 +70,7 @@
         border-color: #dbdbdb;
     }
 
+    .btn-default.disabled,
     .btn-default:disabled,
     .btn-default[disabled] {
         background-color: #e0e0e0;
@@ -99,6 +100,7 @@
         border-color: #245580;
     }
 
+    .btn-primary.disabled,
     .btn-primary:disabled,
     .btn-primary[disabled] {
         background-color: #265a88;
@@ -128,6 +130,7 @@
         border-color: #3e8f3e;
     }
 
+    .btn-success.disabled,
     .btn-success:disabled,
     .btn-success[disabled] {
         background-color: #419641;
@@ -157,6 +160,7 @@
         border-color: #28a4c9;
     }
 
+    .btn-info.disabled,
     .btn-info:disabled,
     .btn-info[disabled] {
         background-color: #2aabd2;
@@ -186,6 +190,7 @@
         border-color: #e38d13;
     }
 
+    .btn-warning.disabled,
     .btn-warning:disabled,
     .btn-warning[disabled] {
         background-color: #eb9316;
@@ -215,6 +220,7 @@
         border-color: #b92c28;
     }
 
+    .btn-danger.disabled,
     .btn-danger:disabled,
     .btn-danger[disabled] {
         background-color: #c12e2a;
@@ -528,4 +534,4 @@
     -webkit-box-shadow: inset 0 1px 3px rgba(0, 0, 0, .05), 0 1px 0 rgba(255, 255, 255, .1);
     box-shadow: inset 0 1px 3px rgba(0, 0, 0, .05), 0 1px 0 rgba(255, 255, 255, .1);
 }
-/*# sourceMappingURL=bootstrap-theme-rtl.css.map */
+/*# sourceMappingURL=bootstrap-theme.css.map */
