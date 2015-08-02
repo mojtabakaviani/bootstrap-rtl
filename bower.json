@@ -1,7 +1,7 @@
 {
     "name": "bootstrap.rtl",
-    "description": "Bootstrap RTL 3.3.2",
-    "version": "3.3.2-rc1",
+    "description": "Bootstrap RTL 3.3.5",
+    "version": "3.3.5-rc1",
     "homepage": "https://github.com/mojtabakaviani/bootstrap-rtl",
     "description": "The most popular front-end framework for developing responsive, mobile first projects on the web.",
     "keywords": [
@@ -20,14 +20,17 @@
         "Mojtaba Kaviani"
     ],
     "main": [
+        "dist/css/bootstrap-rtl.css",
         "dist/css/bootstrap-rtl.min.css",
+        "dist/css/bootstrap-theme-rtl.css",
         "dist/css/bootstrap-theme-rtl.min.css",
+        "dist/js/bootstrap-rtl.js",
         "dist/js/bootstrap-rtl.min.js",
-        "dist/js/bootstrap-rtl.min.js.map",
         "dist/fonts/glyphicons-halflings-regular.eot",
         "dist/fonts/glyphicons-halflings-regular.svg",
         "dist/fonts/glyphicons-halflings-regular.ttf",
-        "dist/fonts/glyphicons-halflings-regular.woff"
+        "dist/fonts/glyphicons-halflings-regular.woff",
+        "dist/fonts/glyphicons-halflings-regular.woff2"
 
     ],
     "ignore": [
