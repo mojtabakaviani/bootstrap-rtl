@@ -7434,7 +7434,6 @@ button.close {
 .popover {
     position: absolute;
     top: 0;
-    right: 0;
     z-index: 1060;
     display: none;
     max-width: 276px;
