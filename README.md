@@ -3,7 +3,7 @@ bootstrap-rtl
 
 Bootstrap RTL
 
-Current Version: 3.3.6
+Current Version: 4.4.1
 
 Please report bugs that solve on the next version
 
